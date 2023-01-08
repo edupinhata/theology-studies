@@ -1,6 +1,7 @@
 # Theology studies
 
-This is a repository to organize my studies in theology. Like articles, sermons, books, etc.
+This is a repository to organize my studies in theology. I'll gather articles, sermons, books, etc. And also add sermons that I prepared.
+
 Probably, most of the content will be in Portuguese unless something makes me to change to English.
 
 ##Interesting sites
